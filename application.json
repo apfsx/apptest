@@ -1,0 +1,14 @@
+{
+  "isPublic": false,
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#F5D1D1",
+  "icon": "line-chart",
+  "slug": "customer-support-dashboard",
+  "createdAt": {
+    "seconds": 1646465168,
+    "nanos": 325000000
+  },
+  "deleted": false
+}
